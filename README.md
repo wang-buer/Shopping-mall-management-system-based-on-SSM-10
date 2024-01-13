@@ -1,10 +1,10 @@
-# 基于SSM的商城管理系统
+# 基于SSM的商城管理系统10
 
 ## 获取方式
 
-扫描下方，回复关键词  ：**商城10** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**商城**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -35,37 +35,29 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141902468.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208141902468.jpg)
 
 ### 4.2 用户模块
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141902683.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202208141902683.jpg)
 
-![用户-购物车管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141902632.jpg)
+![用户-购物车管理](https://www.codeshop.fun/Typora-Images/202208141902632.jpg)
 
-![用户-订单管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141902586.jpg)
+![用户-订单管理](https://www.codeshop.fun/Typora-Images/202208141902586.jpg)
 
-![用户-地址管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141902681.jpg)
+![用户-地址管理](https://www.codeshop.fun/Typora-Images/202208141902681.jpg)
 
 ### 4.3 管理员模块
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141902870.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202208141902870.jpg)
 
-![管理员-轮播图管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141902996.jpg)
+![管理员-轮播图管理](https://www.codeshop.fun/Typora-Images/202208141902996.jpg)
 
-![管理员-商品分类管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141902319.jpg)
+![管理员-商品分类管理](https://www.codeshop.fun/Typora-Images/202208141902319.jpg)
 
-![管理员-商品品牌管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141902976.jpg)
+![管理员-商品品牌管理](https://www.codeshop.fun/Typora-Images/202208141902976.jpg)
 
-![管理员-商品管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141902192.jpg)
+![管理员-商品管理](https://www.codeshop.fun/Typora-Images/202208141902192.jpg)
 
-![管理员-添加商品](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141902087.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**商城10** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![管理员-添加商品](https://www.codeshop.fun/Typora-Images/202208141902087.jpg)
 
